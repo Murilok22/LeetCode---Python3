@@ -23,18 +23,5 @@ class Solution:
             else:
                 # Ã um caractere de abertura, adiciona na pilha
                 pilha.append(char)
-                
+
         return len(pilha) == 0
-
-
-
-
-
-
-
-
-
-
-
-
-
