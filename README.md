@@ -70,7 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Murilok22/LeetCode---Python3/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Boyer Moore String-Search Algorithm
+## Boyer Moore String Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Murilok22/LeetCode---Python3/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
